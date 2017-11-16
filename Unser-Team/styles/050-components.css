@@ -21,7 +21,6 @@ Wer es noch schöner möchte, möge sich mal https://cssguidelin.es/ anschauen.
 }
 
 .brand-logo {
-    width: calc(var(--site-width)/10);
     padding-top: var(--space-stack-m);
     padding-bottom: var(--space-stack-xl);
     display: inline-block;
