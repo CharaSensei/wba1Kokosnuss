@@ -17,7 +17,7 @@ Wer es noch schöner möchte, möge sich mal https://cssguidelin.es/ anschauen.
 .site-header__content {
     max-width: var(--site-width);
     margin: 0 auto;
-    text-align: center;
+    text-align: right;
 }
 
 .brand-logo {
