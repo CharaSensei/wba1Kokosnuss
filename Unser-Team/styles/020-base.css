@@ -13,12 +13,12 @@ Wer es noch schöner möchte, möge sich mal https://cssguidelin.es/ anschauen.
     /* 
     Farben
     ----------------------------------------*/
-    --color-brand: rgb(183, 68, 44);
+    --color-brand: #77cc00;
     --color-border: #dedede;
     --color-text: ##333;
     --color-text-light: #777;
     --color-footer: #2e3234;
-    --color-head: #192c49;
+    --color-head: #dd1199;
     --site-width: 1200px;
     --brand-font: Dosis;
     /* 
