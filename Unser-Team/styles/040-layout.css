@@ -1,6 +1,6 @@
 /*----------------------------------------------------------------------------
-layout.css                                                                  
-Enthält alle übergreifenden typographischen Regeln.  
+layout.css
+Enthält alle übergreifenden typographischen Regeln.
 
 Wer es noch schöner möchte, möge sich mal https://cssguidelin.es/ anschauen.
 ----------------------------------------------------------------------------*/
@@ -26,5 +26,5 @@ Wer es noch schöner möchte, möge sich mal https://cssguidelin.es/ anschauen.
 .section__header {
     border-bottom: solid 1px var(--color-border);
     margin-bottom: var(--space-stack-xl);
-    text-align: center;
+    text-align: right;
 }
